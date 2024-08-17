@@ -4,7 +4,6 @@
 [stats]
 stars-earned = {{ STARS }}
 commits = {{ COMMITS }}
-gists = {{ GISTS }}
 repositories-contributed-to = {{ REPOSITORIES_CONTRIBUTED_TO }}
 
 [languages]
