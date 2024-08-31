@@ -2,21 +2,21 @@
 
 ```ini
 [stats]
-stars-earned = 30
-commits = 2171
+stars-earned = 31
+commits = 2181
 gists = 4
 repositories = 42
 repositories-contributed-to = 11
 
 [languages]
-"Python" = 27.6%
-"Vue" = 15.5%
-"JavaScript" = 13.9%
-"HTML" = 11.5%
-"TypeScript" = 10.4%
-"C#" = 7%
-"JSON" = 4.5%
-"Other" = 9.2%
+"Python" = 39%
+"TypeScript" = 19.3%
+"Vue" = 8.9%
+"JavaScript" = 8.3%
+"HTML" = 6.7%
+"C#" = 4%
+"Shell" = 3.1%
+"Other" = 10.3%
 ```
 
 <!--
