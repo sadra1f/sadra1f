@@ -6,7 +6,7 @@ stars-earned = 32
 commits = 2523
 gists = 4
 repositories = 49
-repositories-contributed-to = 9
+repositories-contributed-to = 8
 
 [languages]
 "Python" = 38.5%
