@@ -3,7 +3,7 @@
 ```ini
 [stats]
 stars-earned = 32
-commits = 2525
+commits = 2497
 gists = 4
 repositories = 49
 repositories-contributed-to = 7
