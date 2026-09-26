@@ -3,17 +3,17 @@
 ```ini
 [stats]
 stars-earned = 31
-commits = 2763
+commits = 2767
 gists = 4
 repositories = 57
 repositories-contributed-to = 10
 
 [languages]
 "Python" = 31.5%
-"TypeScript" = 15.4%
-"Lua" = 13.4%
-"Vue" = 9.1%
-"JavaScript" = 7.5%
+"TypeScript" = 15.3%
+"Lua" = 13.6%
+"Vue" = 9%
+"JavaScript" = 7.4%
 "HTML" = 5.8%
 "Shell" = 4.6%
 "Other" = 12.3%
